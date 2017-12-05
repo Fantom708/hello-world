@@ -1,1 +1,3 @@
-# hello-world
+# My hello-world text file
+
+Hi there
